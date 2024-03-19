@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumit gohil
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Flutter App Developer
+- 🌱 I’m currently learning Flutter App Development 
 
 <!---
 sumitFlutter/sumitFlutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
