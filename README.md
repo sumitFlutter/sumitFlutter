@@ -60,7 +60,7 @@ I’m continuously expanding my knowledge in Flutter, exploring advanced feature
 ### 📫 Let's Connect
 Feel free to reach out if you want to collaborate on a project, need assistance with Flutter, or just want to discuss tech!
 
-- [Twitter](https://twitter.com/sumitFlutter)
+- [Twitter](https://x.com/gohil_sumi87771)
 - [LinkedIn](http://www.linkedin.com/in/sumit-gohil-5113742b6)
 
 ---
