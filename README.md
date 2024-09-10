@@ -30,7 +30,7 @@ I'm a passionate Flutter developer from India, with a focus on creating innovati
 
 Here are some of my top projects that showcase my work:
 
-1. **[theme_change](https://github.com/sumitFlutter/theme_change)**
+1. **[theme_change](https://pub.dev/packages/theme_change)**
    - **Description**: A Flutter package demonstrating dynamic theme switching, allowing users to seamlessly switch between light and dark modes.
    - **Key Features**: Dynamic themes, user preferences, modern UI.
 
