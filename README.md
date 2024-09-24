@@ -23,7 +23,7 @@ I'm a passionate Flutter developer from India, with a focus on creating innovati
 ### 💻 Skills
 - **Programming Languages:** Dart, Java, Kotlin, PHP
 - **Frameworks & Tools:** Flutter, Android Studio, VSCode
-- **Backend & APIs:** Firebase, RESTful APIs
+- **Backend & APIs:** Firebase, RESTful APIs, Database 
 - **Design:** Figma
 
 ### 🚀 Top Repositories
