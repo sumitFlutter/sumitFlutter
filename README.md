@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Sumit GOHIL! <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/21bc3dbe-25b4-4101-a39b-94e722cd707c">
+# 👋 Hi, I'm sumitFlutter! <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/21bc3dbe-25b4-4101-a39b-94e722cd707c">
 
 ### 🌍 About Me
 I'm a passionate Flutter developer from India, with a focus on creating innovative and user-friendly mobile applications. My journey in coding is driven by a love for solving complex problems and building tools that make life easier.
